@@ -62,8 +62,14 @@ body {
 }
 .details p {
   font-size: 19px;
+  font-weight: bold;
   margin-bottom: 10px;
 }
+
+.details span {
+    font-weight: 400;
+}
+
 .content .reset-btn {
   width: 100%;
   border: none;
